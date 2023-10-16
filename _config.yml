@@ -3,7 +3,7 @@ logo: "/images/FotoRaphael.png?raw=true" # your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
   Estudante de Gestão da Tecnologia da Informação. Estou me especializando em ferramentas de análise de dados.
   <br><br>
-  <a href="https://www.linkedin.com/in/raphael-sato/">View My LinkedIn Profile</a> 
+  <a href="https://www.linkedin.com/in/raphael-sato/">LinkedIn</a> 
   
 remote_theme: pages-themes/minimal@v0.2.0
 plugins:
